@@ -18,4 +18,4 @@ int main(){
     int binaryNum =10011;
     cout<<binaryToDecimal(binaryNum);
     return 0;
-}
+}   
